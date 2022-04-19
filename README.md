@@ -19,6 +19,8 @@
 | JuiceTheKidd | Count My Dough | Leaked by CXDEN on Leakth.is June 4th, 2020. | 7/4/2020 | Throwaway | Yes (CDQ) |
 | JuiceTheKidd | Cruising | Lost song from 'Twilight Zone EP.' Resurfaced by Googly on leakth.is September 7th, 2020. | 7/7/2020 | Lost | Yes (CDQ) |
 | JuiceTheKidd | Different Phases | Group bought and leaked by unizeebs on leakth.is April 22nd, 2020. OG version of "this can't be happening <3" | 4/22/2020 | OG | Yes (CDQ) |
+| JuiceTheKidd | Don't Care (2017) | Group bought and leaked by Magz on leakth.is May 7th, 2020. | 5/7/2020 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Dream$ | Lost song from 'Twilight Zone EP.' Resurfaced by hero z on leakth.is December 13th, 2019. Music video uploaded to INJUSTICE PRODUCTIONS YouTube channel. | 12/13/2019 | Lost | Yes (HQ) |
 
 
 
