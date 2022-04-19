@@ -11,6 +11,9 @@
 | JuiceTheKidd | Ain't Talkin Toronto (ft. GDo) | Old feature from 2015. | N/A | Feature | Yes (CDQ) |
 | JuiceTheKidd | Aye Aye | Leaked by 999gg on leaked.is August 3rd, 2021. | 8/3/2021 | Throwaway | Yes (CDQ) |
 | JuiceTheKidd | Aye Ayee | Old song from 2016. Music video available on YouTube. Shot by Xantana Vision. | N/A | Feature | Yes (HQ) |
+| JuiceTheKidd | Blowing Up | Group bought and leaked by wiki1eyebrow on June 11th, 2020. | 6/11/2020 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Bout That (ft. GDo) | Old feature from 2016. Produced by Bobby Williams. | N/A | Feature | Yes (HQ) |
+| JuiceTheKidd | Chop A Brick (Sad Rockstar) | Leaked by MikeyOvers on leaked.is October 12th, 2021. Produced by King Leeboy. | 10/12/2021 | Throwaway | Yes (CDQ) |
 
 
 
