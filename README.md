@@ -14,6 +14,11 @@
 | JuiceTheKidd | Blowing Up | Group bought and leaked by wiki1eyebrow on June 11th, 2020. | 6/11/2020 | Throwaway | Yes (CDQ) |
 | JuiceTheKidd | Bout That (ft. GDo) | Old feature from 2016. Produced by Bobby Williams. | N/A | Feature | Yes (HQ) |
 | JuiceTheKidd | Chop A Brick (Sad Rockstar) | Leaked by MikeyOvers on leaked.is October 12th, 2021. Produced by King Leeboy. | 10/12/2021 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Classic Trap (ft. Zay Loco) | Old feature from 2015. Produced by ChrisWeelerBeats. | N/A | Feature | Yes (HQ) |
+| JuiceTheKidd | Club Wit A K | Leaked on LEAKED.CX by puke on Nov. 27, 2021. Could be from 9 9 9 sessions. | 11/27/2021 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Count My Dough | Leaked by CXDEN on Leakth.is June 4th, 2020. | 7/4/2020 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Cruising | Lost song from 'Twilight Zone EP.' Resurfaced by Googly on leakth.is September 7th, 2020. | 7/7/2020 | Lost | Yes (CDQ) |
+| JuiceTheKidd | Different Phases | Group bought and leaked by unizeebs on leakth.is April 22nd, 2020. OG version of "this can't be happening <3" | 4/22/2020 | OG | Yes (CDQ) |
 
 
 
