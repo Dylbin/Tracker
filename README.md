@@ -67,34 +67,12 @@
 | JuiceTheKidd | Yo Bishh (Coupe) | Lost song. Resurfaced by gangshit on leakth.is August 25th, 2019. | 8/25/2019 | Lost | Yes (CDQ) |
 | JuiceTheKidd | You And I | Group bought and leaked by Vs On The Sosa on leakth.is July 25th, 2020. | 7/25/2020 | Throwaway | Yes (CDQ) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![999 Era](https://github.com/Dylbin/Tracker/blob/main/999.png?raw=true)
 
 | Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
 |-----|------------------|--------------|-------|-------|---------|
 | 999 | Act Right (feat. GDo) | Old feature from 2017. Produced by SIDEPCE. | N/A | Feature | Yes (HQ) |
-| 999 | All Burnt Up | Leaked on LEAKED.CX by Caskets on Mar. 1, 2022. Could possibly be from JTK era. | 3/1/2022 | Yes (CDQ) |
+| 999 | All Burnt Up | Leaked on LEAKED.CX by Caskets on Mar. 1, 2022. Could possibly be from JTK era. | 3/1/2022 | Throwaway Yes | (CDQ) |
 | 999 | Confide To | Leaked on LEAKED.CX by Sodacup111 on Mar. 1, 2022. | 3/1/2022 | Throwaway | Yes (CDQ)
 | 999 | Don't Know What I'm On | Leaked by gangshit on leakth.is on January 15th, 2019. | 1/15/2019 | Throwaway | Yes (HQ) |
 | 999 | Faded | Leaked by Christ on leakth.is July 7th, 2020. Produced by Nick Mira. | 7/7/2020 | Throwaway | Yes (CDQ) |
@@ -116,26 +94,28 @@
 | 999 | Watch Me | Leaked by juiceleaks101 on leakth.is. Produced by Nick Mira. | 6/24/2018 | Throwaway | Yes (CDQ) |
 | 999 | Your Man (France) | Leaked by outchrome on leaked.is May 2nd, 2021. Produced by Nick Mira. | 5/2/2021 | Throwaway | Yes (CDQ) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![GB&GR Era](https://github.com/Dylbin/Tracker/blob/main/GBGR.png?raw=true)
+
+| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
+|-----|------------------|--------------|-------|-------|---------|
+
+
+
+
+
+
+
+
+
+
+
 ![WOD Era](https://github.com/Dylbin/Tracker/blob/main/WOD.png?raw=true)
+
+| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
+|-----|------------------|--------------|-------|-------|---------|
 ![DRFL Era](https://github.com/Dylbin/Tracker/blob/main/DRFL.png?raw=true)
+| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
+|-----|------------------|--------------|-------|-------|---------|
 ![JW3 Era](https://github.com/Dylbin/Tracker/blob/main/JW3.png?raw=true)
+| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
+|-----|------------------|--------------|-------|-------|---------|
