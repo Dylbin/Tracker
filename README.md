@@ -24,7 +24,10 @@
 | JuiceTheKidd | DRUGZ (ft. King Jefe) | Old feature from 2016. Produced by CaliBaset. | N/A | Feature | Yes (HQ) |
 | JuiceTheKidd | Fall Through | Song from 2015 not uploaded on Juice's soundcloud. | N/A | N/A | Yes (HQ) |
 | JuiceTheKidd | Forever (v2) | Re-record of Forever. Group bought and leaked by Googly on leakth.is July 31st, 2020. | 7/31/2020 | Throwaway | Yes (CDQ) |
-
+| JuiceTheKidd | Forever Part 2 (ft. Jbucks) | Remix of Forever uploaded to Jbucks' SoundCloud. Includes a different Juice verse and chrous. | N/A | Feature | Yes (HQ) |
+| JuiceTheKidd | Franky On Me (with GDo) | Old feature from 2016. Produced by DeCicco. | N/A | Feature | Full (HQ) |
+| JuiceTheKidd | Freestyle | Group bought and leaked by user on leakth.is October 22nd, 2020. | 8/22/2020 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Fuck It Up (with King Jefe) | Old feature from 2016. Produced by CaliBaset. | N/A | Feature | Yes (HQ) |
 
 
 
