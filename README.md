@@ -1,4 +1,4 @@
-# Juice WRLD Leak Tracker
+# Juice WRLD Leak Tracker (Work in progress.)
 
 - CDQ = CD Quality (256kbps or more)
 - HQ = 128 kbps
