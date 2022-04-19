@@ -3,7 +3,7 @@
 | Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
 |-----|---------------|--------------|-----|-----|---------|
 | JuiceTheKidd | 2MININHELL | Leaked by gangshit on leakth.is on January 15th, 2019. Song was probably lost. Produced by J Knight. | 1/15/2019 | Lost | Yes (CDQ) |
-
+| JuiceTheKidd | 5AM Outro (I'm Cool) | Lost song from 'Twilight Zone EP.' Resurfaced by SONICBEAST on leakth.is January 15th, 2019. Produced by Hella Sketchy. | 1/15/2019 | Lost | Yes (HQ) |
 
 
 
