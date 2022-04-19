@@ -1,5 +1,9 @@
 # Juice WRLD Leak Tracker
 
+CDQ = CD Quality (256kbps or more)
+HQ = 128 kbps
+LQ = Snippet or less than 128kbps
+
 | Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
 |-----|---------------|--------------|-----|-----|---------|
 | JuiceTheKidd | 2MININHELL | Leaked by gangshit on leakth.is on January 15th, 2019. Song was probably lost. Produced by J Knight. | 1/15/2019 | Lost | Yes (CDQ) |
