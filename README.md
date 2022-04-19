@@ -97,8 +97,8 @@
 ![GB&GR Era](https://github.com/Dylbin/Tracker/blob/main/GBGR.png?raw=true)
 
 | Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
-|-----|------------------|--------------|-------|-------|---------|
-
+|------|------------------|--------------|-------|-------|---------|
+| GB&GR | 999 | Group bought and leaked by JustinPunch on leakth.is June 9th, 2020. Produced by Nick Mira | 6/9/2020 | Demo | Yes (CDQ) |
 
 
 
@@ -110,12 +110,5 @@
 
 
 ![WOD Era](https://github.com/Dylbin/Tracker/blob/main/WOD.png?raw=true)
-
-| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
-|-----|------------------|--------------|-------|-------|---------|
 ![DRFL Era](https://github.com/Dylbin/Tracker/blob/main/DRFL.png?raw=true)
-| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
-|-----|------------------|--------------|-------|-------|---------|
 ![JW3 Era](https://github.com/Dylbin/Tracker/blob/main/JW3.png?raw=true)
-| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
-|-----|------------------|--------------|-------|-------|---------|
