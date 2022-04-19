@@ -90,6 +90,41 @@
 
 
 ![999 Era](https://github.com/Dylbin/Tracker/blob/main/999.png?raw=true)
+
+| Era | Song Name (* = untitled) | Notes | Date | Type | Available? |
+|-----|------------------|--------------|-------|-------|---------|
+| 999 | Act Right (feat. GDo) | Old feature from 2017. Produced by SIDEPCE. | N/A | Feature | Yes (HQ) |
+| 999 | All Burnt Up | Leaked on LEAKED.CX by Caskets on Mar. 1, 2022. Could possibly be from JTK era. | 3/1/2022 | Yes (CDQ) |
+| 999 | Confide To | Leaked on LEAKED.CX by Sodacup111 on Mar. 1, 2022. | 3/1/2022 | Yes (CDQ) |
+| 999 | Don't Know What I'm On | Leaked by gangshit on leakth.is on January 15th, 2019. | 1/15/2019 | Throwaway | Yes (HQ) |
+| 999 | Faded | Leaked by Christ on leakth.is July 7th, 2020. Produced by Nick Mira. | 7/7/2020 | Throwaway | Yes (CDQ) |
+| 999 | Go Home | Leaked by mistrewind on leakth.is July 2nd, 2020. Produced by Nick Mira. | 7/2/2020 | Throwaway | Yes (CDQ) |
+| 999 | Kawasaki | Leaked by juiceleaks101 on leakth.is. Produced by SIDEPCE. | 6/3/2018 | Throwaway | Yes (CDQ) |
+| 999 | Make It Sell | Leaked by juiceleaks101 on leakth.is. Produced by SIDEPCE. | N/A | Throwaway | Yes (CDQ) |
+| 999 | Mind Games | Leaked on LEAKED.CX by alx on Jan. 17, 2022. | 1/17/2022 | Throwaway | Yes (CDQ) |
+| 999 | Money Hunt | Leaked by juiceleaks101 on leakth.is. | 6/3/2018 | Throwaway | Yes (CDQ) |
+| 999 | Move The Bale (Hard At Life) [feat. 34 Ace] | Uploaded on 34 Ace's Soundcloud. Produced by TheBeatAsylum. | N/A | N/A | Yes (HQ) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![GB&GR Era](https://github.com/Dylbin/Tracker/blob/main/GBGR.png?raw=true)
 ![WOD Era](https://github.com/Dylbin/Tracker/blob/main/WOD.png?raw=true)
 ![DRFL Era](https://github.com/Dylbin/Tracker/blob/main/DRFL.png?raw=true)
