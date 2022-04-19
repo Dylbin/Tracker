@@ -104,7 +104,17 @@
 | 999 | Mind Games | Leaked on LEAKED.CX by alx on Jan. 17, 2022. | 1/17/2022 | Throwaway | Yes (CDQ) |
 | 999 | Money Hunt | Leaked by juiceleaks101 on leakth.is. | 6/3/2018 | Throwaway | Yes (CDQ) |
 | 999 | Move The Bale (Hard At Life) [feat. 34 Ace] | Uploaded on 34 Ace's Soundcloud. Produced by TheBeatAsylum. | N/A | N/A | Yes (HQ) |
-
+| 999 | No Love No Trust 999 | First shown on Juice's Twitter in 2017. Group bought and leaked by Bren and ejthakid on leakth.is on July 7th, 2019. Produced by TheBeatAsylum. | 7/7/2019 | Throwaway | Yes (CDQ) |
+| 999 | No More | Apart of 35 song leak on July 16th, 2018. | 7/16/2018 | Throwaway | Yes (CDQ) |
+| 999 | No Vanity | Leaked on LEAKED.CX by coramilk on Mar. 3, 2022. | Throwaway | Yes (CDQ) |
+| 999 | OK (Leave Me Alone) | Leaked on leakth.is on August 9th, 2018. Produced by Nick Mira. Original file leaked by antoxic on leaked.is September 26th, 2021. | Throwaway | Yes (CDQ) |
+| 999 | Radio | Group bought and leaked by Ryanmvp25 on leaked.is May 3rd, 2021. Produced by Nick Mira. | 5/3/2021 | Throwaway | Yes (CDQ) |
+| 999 | ROCK | Leaked by LeakerRapppp on leakth.is January 30th, 2020. Song is a demo of ROCKSTAR GIRL. | 1/30/2020 | Demo | Yes (CDQ) |
+| 999 | Studio sessions (I don't wanna lose freestyle) </3 | Ripped from a YouTube video of Juice in the studio. Produced by Monark the Producer. | N/A | Lost | Yes (HQ) + Snippet (LQ) |
+| 999 | Too Far | Leaked by juiceleaks101 on May 21st 2018. Produced by SIDEPCE. | 5/21/2018 | Throwaway | Yes (CDQ) |
+| 999 | Triple 9 | Leaked by juiceleaks101 on leakth.is. Produced by Oh My God Is That Sir Marcus of TheBeatAsylum. | 6/3/2018 | Throwaway | Yes (CDQ) |
+| 999 | Watch Me | Leaked by juiceleaks101 on leakth.is. Produced by Nick Mira. | 6/24/2018 | Throwaway | Yes (CDQ) |
+| 999 | Your Man (France) | Leaked by outchrome on leaked.is May 2nd, 2021. Produced by Nick Mira. | 5/2/2021 | Throwaway | Yes (CDQ) |
 
 
 
