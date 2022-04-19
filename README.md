@@ -95,7 +95,7 @@
 |-----|------------------|--------------|-------|-------|---------|
 | 999 | Act Right (feat. GDo) | Old feature from 2017. Produced by SIDEPCE. | N/A | Feature | Yes (HQ) |
 | 999 | All Burnt Up | Leaked on LEAKED.CX by Caskets on Mar. 1, 2022. Could possibly be from JTK era. | 3/1/2022 | Yes (CDQ) |
-| 999 | Confide To | Leaked on LEAKED.CX by Sodacup111 on Mar. 1, 2022. | 3/1/2022 | Yes (CDQ) |
+| 999 | Confide To | Leaked on LEAKED.CX by Sodacup111 on Mar. 1, 2022. | 3/1/2022 | Throwaway | Yes (CDQ)
 | 999 | Don't Know What I'm On | Leaked by gangshit on leakth.is on January 15th, 2019. | 1/15/2019 | Throwaway | Yes (HQ) |
 | 999 | Faded | Leaked by Christ on leakth.is July 7th, 2020. Produced by Nick Mira. | 7/7/2020 | Throwaway | Yes (CDQ) |
 | 999 | Go Home | Leaked by mistrewind on leakth.is July 2nd, 2020. Produced by Nick Mira. | 7/2/2020 | Throwaway | Yes (CDQ) |
