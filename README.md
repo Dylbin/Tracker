@@ -9,8 +9,8 @@
 | JuiceTheKidd | 2MININHELL | Leaked by gangshit on leakth.is on January 15th, 2019. Song was probably lost. Produced by J Knight. | 1/15/2019 | Lost | Yes (CDQ) |
 | JuiceTheKidd | 5AM Outro (I'm Cool) | Lost song from 'Twilight Zone EP.' Resurfaced by SONICBEAST on leakth.is January 15th, 2019. Produced by Hella Sketchy. | 1/15/2019 | Lost | Yes (HQ) |
 | JuiceTheKidd | Ain't Talkin Toronto (ft. GDo) | Old feature from 2015. | N/A | Feature | Yes (CDQ) |
-| JuiceTheKidd | Aye Aye | Leaked by 999gg on leaked.is August 3rd, 2021. | 8/3/2021 | Throwaway |
-| JuiceTheKidd | Aye Ayee | Old song from 2016. Music video available on YouTube. Shot by Xantana Vision. | N/A | Feature |
+| JuiceTheKidd | Aye Aye | Leaked by 999gg on leaked.is August 3rd, 2021. | 8/3/2021 | Throwaway | Yes (CDQ) |
+| JuiceTheKidd | Aye Ayee | Old song from 2016. Music video available on YouTube. Shot by Xantana Vision. | N/A | Feature | Yes (HQ) |
 
 
 
